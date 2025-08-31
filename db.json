@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "affiliates": [
     {
       "id": 1,
-      "title": "hello"
+      "fName": "Taymaz",
+      "lName": "Davoodi",
+      "preferredName": "",
+      "isStudent": false,
+      "classes": [
+        "cas-cs-103",
+        "cas-cs-391",
+        "met-cs-622"
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
